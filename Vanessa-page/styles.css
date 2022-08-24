@@ -1071,6 +1071,7 @@ padding: 0.25em 1em 0.2em 1em;
 /* contact_me.html -------------------------------------------------*/
 #contact_first {
     margin-top: 230px;
+    margin-bottom: 230px;
 }
 
 #contact_first i {
@@ -1086,6 +1087,7 @@ padding: 0.25em 1em 0.2em 1em;
     line-height: 2;
 }
 
+/*
 #contact_second {
     margin-bottom: 150px;
 }
@@ -1619,6 +1621,7 @@ display: none;
         transform: translate(30%, -50%);
     }
 }
+*/
 
 /* Header  -------------------------------------------------*/
 header img {
