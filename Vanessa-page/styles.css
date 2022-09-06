@@ -957,7 +957,7 @@ padding: 0.25em 1em 0.2em 1em;
 @media (min-width: 500px) {
     #sas_first .jumbotron {
         height: 60vh;
-}
+    }
     
     #sas_second {
         margin-top: 100px;
@@ -967,7 +967,7 @@ padding: 0.25em 1em 0.2em 1em;
 @media (min-width: 768px) {
     #sas_first .jumbotron {
         color: white;
-        height: 100vh;
+        height: 70vh;
         background-image: url('image/IMG_2835.JPG');
         background-position: top;
         background-size: contain;
@@ -1047,6 +1047,10 @@ padding: 0.25em 1em 0.2em 1em;
 }
 
 @media (min-width: 992px) {
+    #sas_first .jumbotron {
+        height: 100vh;
+    }
+    
     #sas_second h3 {
         text-align: center;
         line-height: 2;
