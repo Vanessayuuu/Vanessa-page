@@ -875,7 +875,7 @@ padding: 0.25em 1em 0.2em 1em;
 /* css_sas.html -------------------------------------------------*/
 #sas_first .jumbotron {
     color: white;
-    height: 70vh;
+    height: 40vh;
     margin-top: 40px;
     background-image: url(image/IMG_2835.JPG);
     background-position: top;
@@ -955,6 +955,10 @@ padding: 0.25em 1em 0.2em 1em;
 }
 
 @media (min-width: 500px) {
+    #sas_first .jumbotron {
+        height: 60vh;
+}
+    
     #sas_second {
         margin-top: 100px;
     }
