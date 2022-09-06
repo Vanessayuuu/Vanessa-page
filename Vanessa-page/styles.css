@@ -967,7 +967,7 @@ padding: 0.25em 1em 0.2em 1em;
 @media (min-width: 768px) {
     #sas_first .jumbotron {
         color: white;
-        height: 70vh;
+        height: 60vh;
         background-image: url('image/IMG_2835.JPG');
         background-position: top;
         background-size: contain;
